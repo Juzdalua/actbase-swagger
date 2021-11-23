@@ -1,0 +1,27 @@
+{
+  "name": "actbase-swagger",
+  "version": "1.0.0",
+  "description": "coding test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juzdalua/actbase-swagger.git"
+  },
+  "author": "JunKim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juzdalua/actbase-swagger/issues"
+  },
+  "homepage": "https://github.com/Juzdalua/actbase-swagger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
